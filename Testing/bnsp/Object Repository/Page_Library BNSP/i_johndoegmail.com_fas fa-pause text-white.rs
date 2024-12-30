@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_johndoegmail.com_fas fa-pause text-white</name>
+   <tag></tag>
+   <elementGuidId>2023b059-1ff4-474c-932a-7ca6ed41c486</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='example']/tbody/tr/td[5]/form/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-pause.text-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e2722b25-9988-4dfb-a034-b8d99656fc5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-pause text-white</value>
+      <webElementGuid>ed2bb7aa-7d1e-47b1-af5d-7e0998f36553</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;example&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;d-flex align-items-center gap-2&quot;]/form[1]/button[@class=&quot;btn btn-warning&quot;]/i[@class=&quot;fas fa-pause text-white&quot;]</value>
+      <webElementGuid>1b757d51-5d75-426e-9b7d-c589f7a116dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='example']/tbody/tr/td[5]/form/button/i</value>
+      <webElementGuid>d03cdd4a-dbbb-417f-bfbd-ae4d2e16f1d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button/i</value>
+      <webElementGuid>7b9f3f11-95db-4529-889c-bafbe3fef266</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

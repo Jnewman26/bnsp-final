@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CancelBorrowing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>97fbaa03-c246-478b-9f04-2539bf35b4bf</testCaseGuid>
+</TestCaseEntity>

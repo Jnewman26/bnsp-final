@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Category</name>
+   <tag></tag>
+   <elementGuidId>4dff6b43-9396-44d1-8ebd-8c96d94fd0ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='📝'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;📝 Category&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>47deebe7-777c-4fce-a111-7f20bb383ffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-body-tertiary fw-semibold</value>
+      <webElementGuid>54ce67ff-970d-4d48-81fd-a5266d2b1e49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Category</value>
+      <webElementGuid>1223da05-3fd8-4f6f-8cec-5b563200b0af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/nav[@class=&quot;col-md-3 col-lg-2 d-md-block sidebar&quot;]/div[@class=&quot;position-sticky pt-2 ps-4&quot;]/ul[@class=&quot;nav flex-column&quot;]/li[@class=&quot;nav-item my-4&quot;]/a[@class=&quot;nav-link p-0&quot;]/span[@class=&quot;text-body-tertiary fw-semibold&quot;]</value>
+      <webElementGuid>042864e7-6475-4798-b5b1-4d2a15ede24b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='📝'])[1]/following::span[1]</value>
+      <webElementGuid>bf3a5d7b-936d-40ce-970d-a867eef7d590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member'])[1]/following::span[2]</value>
+      <webElementGuid>01d8e139-6021-43b8-9084-11e873c86e38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/preceding::span[1]</value>
+      <webElementGuid>0938ab35-6378-4e76-bcab-bcd3eea4c899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='🎉 Hello admin'])[1]/preceding::span[1]</value>
+      <webElementGuid>111281ae-4490-46dd-a394-993f6030ed1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Category']/parent::*</value>
+      <webElementGuid>6a7a9cb8-54f7-4f34-a4cb-fc33eda81c5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a/span[2]</value>
+      <webElementGuid>bf67b620-4160-4653-9f21-24b7082e0ba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Category' or . = 'Category')]</value>
+      <webElementGuid>fea4f258-a013-4b05-99e8-0e18bcb4d371</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

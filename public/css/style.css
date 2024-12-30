@@ -1,0 +1,93 @@
+.discovery {
+    background: linear-gradient(to bottom, #EAE6D7 40%, #ffffff 40%);
+    min-height: 100vh;
+}
+
+.bg-bnsp {
+    background-color: #2a5e5c;
+}
+
+.search {
+    background-color: #fff;
+    padding: 6px;
+    border-radius: 14px
+}
+
+::placeholder {
+    color: #bebebe;
+    opacity: 1
+}
+
+.search-2 {
+    position: relative;
+    width: 100%
+}
+
+.search-2 input {
+    height: 40px;
+    border: none;
+    width: 100%;
+    padding-left: 18px;
+    padding-right: 100px
+}
+
+.search-2 input:focus {
+    border-color: none;
+    box-shadow: none;
+    outline: none
+}
+
+.search-2 i {
+    position: absolute;
+    top: 12px;
+    left: -10px;
+    font-size: 24px;
+    color: #eee
+}
+
+.search-2 button {
+    position: absolute;
+    right: 1px;
+    top: 0px;
+    border: none;
+    height: 40px;
+    background-color: #1B3A39;
+    color: #fff;
+    width: 100px;
+    border-radius: 12px
+}
+
+@media (max-width:800px) {
+
+    .search-2 i {
+        left: 4px
+    }
+
+    .search-2 input {
+        padding-left: 34px
+    }
+
+    .search-2 button {
+        height: 37px;
+        top: 5px
+    }
+}
+
+.page-link {
+    border-color: #ddd !important;
+}
+
+.page-link.bg-primary {
+    background-color: #fff !important;
+    color: #2a5e5c !important;
+}
+
+.page-link.bg-success {
+    background-color: #2a5e5c !important;
+    color: #fff !important;
+}
+
+.page-link.bg-secondary {
+    background-color: #b4bdc5 !important;
+    color: #fff !important;
+}

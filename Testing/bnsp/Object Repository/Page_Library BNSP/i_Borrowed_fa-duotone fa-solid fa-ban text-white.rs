@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Borrowed_fa-duotone fa-solid fa-ban text-white</name>
+   <tag></tag>
+   <elementGuidId>35250c11-b5bd-4d9a-b7c7-0a24025838d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='example']/tbody/tr/td[14]/button[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa-duotone.fa-solid.fa-ban.text-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;B2024123015541740 1234567891234567 7894563214785 John Doe Bisnis Modern 78945456132 R31 1 2024-12-30 22:54:17 2025-01-06 15:54:17 NO Borrowed   &quot;i] >> internal:role=button >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8b118efb-ba90-4592-97db-1bde426a7c79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-duotone fa-solid fa-ban text-white</value>
+      <webElementGuid>d0642dc3-4cb1-492e-a5cb-9aa88a8ad9a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;example&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;d-flex align-items-center gap-2 py-5&quot;]/button[@class=&quot;btn btn-danger&quot;]/i[@class=&quot;fa-duotone fa-solid fa-ban text-white&quot;]</value>
+      <webElementGuid>86cfcceb-a180-4c17-bbca-580d1fc3d608</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='example']/tbody/tr/td[14]/button[2]/i</value>
+      <webElementGuid>f79b25c1-6764-40d8-920d-ac9fdc282b36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/i</value>
+      <webElementGuid>bd41a129-1ed0-4141-bc08-3653345f4036</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

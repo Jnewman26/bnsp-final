@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Borrowed_fa-solid fa-turn-down-left text-white</name>
+   <tag></tag>
+   <elementGuidId>f6c1ae39-82e2-4fd3-ae2b-ce1616f4f94f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='example']/tbody/tr/td[14]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa-solid.fa-turn-down-left.text-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;B2024123015555935 1234567891234567 7894563214785 John Doe Bisnis Modern 78945456132 R31 1 2024-12-30 22:55:59 2025-01-06 15:55:59 NO Borrowed   &quot;i] >> internal:role=button >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>cd0018aa-3e3c-4bd5-817c-f53e35e64cda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-solid fa-turn-down-left text-white</value>
+      <webElementGuid>968b1da0-a3fe-4711-a63c-b86d62f536aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;example&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;d-flex align-items-center gap-2 py-5&quot;]/button[@class=&quot;btn btn-warning&quot;]/i[@class=&quot;fa-solid fa-turn-down-left text-white&quot;]</value>
+      <webElementGuid>2b1241fd-58d5-4bdf-a519-1acbe23f09e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='example']/tbody/tr/td[14]/button/i</value>
+      <webElementGuid>5bd3d93e-7116-4049-bda7-4d64fa9827bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>f9458caa-a134-4b63-97aa-8ccc83eb078c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,7 @@
+CREATE DEFINER=`root`@`localhost` EVENT `check_borrowing_overdue` ON SCHEDULE EVERY 1 DAY STARTS '2024-12-30 01:02:08' ON COMPLETION NOT PRESERVE ENABLE DO BEGIN
+    UPDATE borrowing
+    SET borrowing_overdue = 'YES'
+    WHERE borrowing_end_date < CURDATE()
+    AND borrowing_status = 1
+    AND borrowing_overdue IS NULL;
+END
